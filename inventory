@@ -6,3 +6,6 @@ backend.jai-awsdevops.online
 
 [frontend]
 jai-awsdevops.online
+
+[all:vars]
+ansible_password=DevOps321
